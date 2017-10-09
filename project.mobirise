@@ -1,13 +1,14 @@
 {
   "settings": {
-    "name": "Site-10-08_1217",
+    "name": "My site",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {},
       "additionalSetColors": [
-        "#efefef"
+        "#efefef",
+        "#3921d7"
       ]
     },
     "versionFirst": "4.2.4",
@@ -15,7 +16,9 @@
     "versionPublish": "4.2.4",
     "favicon": "",
     "noImageResize": "",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "google-analytics": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
@@ -62,17 +65,18 @@
             "H1": {
               "color": "#ffffff",
               "text-align": "left",
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             },
             "P": {
               "color": "#f1c050",
               "text-align": "left"
             },
             "B": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "24px"
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-size": "24px",
+              "color": "#ffffff"
             }
           }
         },
@@ -231,7 +235,19 @@
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-6"
+          "_anchor": "content5-6",
+          "_styles": {
+            ".mbr-section-title B": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "color": "#3921d7"
+            },
+            "P": {
+              "color": "#0275d8",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         },
         {
           "_params": {
@@ -278,8 +294,8 @@
               "color": "#000"
             },
             ".navbar-brand": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
             }
           }
         },
@@ -322,10 +338,12 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "B": {
-              "color": "#f1c050"
+              "color": "#f1c050",
+              "font-size": "24px"
             },
             "STRONG": {
-              "color": "#f1c050"
+              "color": "#f1c050",
+              "font-size": "24px"
             }
           }
         },
@@ -357,6 +375,10 @@
             ".mbr-section-title": {
               "font-size": "25px",
               "color": "#d9534f"
+            },
+            ".mbr-section-title B": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           }
         }
