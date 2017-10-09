@@ -1,3 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+
+
+#header4-0 H1 {
+  color: #ffffff;
+  text-align: left;
+  font-family: 'Playfair Display', sans-serif;
+}
 #menu-9 .navbar-toggler {
   color: #000;
+}
+#menu-9 .navbar-brand {
+  font-family: 'Playfair Display', sans-serif;
 }
