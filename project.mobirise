@@ -13,12 +13,13 @@
     },
     "versionFirst": "4.2.4",
     "uniqCompNum": 21,
-    "versionPublish": "4.2.4",
+    "versionPublish": "4.3.2",
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "google-analytics": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
