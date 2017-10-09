@@ -140,12 +140,12 @@
             "imageSize": "70",
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/1501759163778-2000x1500.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -165,9 +165,9 @@
             "video": {
               "active": true,
               "src": "https://youtu.be/MOlK6nMGTi0",
-              "aspectratio": "16:9",
+              "aspectratio": "4:3",
               "autoplay": "on",
-              "loop": false
+              "loop": "on"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box5",
