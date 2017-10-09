@@ -50,7 +50,7 @@
             "overlayOpacity": 0.5
           },
           "title": "I Enjoy...<br>&nbsp; &nbsp; &nbsp; My Life~",
-          "text": "透過旅行，學著如何把生活還給自己。\n<br>旅行歸來，試著如何把未來還給自己。",
+          "text": "<b>透過旅行，學著如何把生活還給自己。\n<br>旅行歸來，試著如何把未來還給自己。</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">For MAC</a>",
           "alias": "purity/components",
           "_tags": [
@@ -66,7 +66,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             },
             "P": {
-              "color": "#f1c050"
+              "color": "#f1c050",
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "24px"
             }
           }
         },
@@ -238,7 +244,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://shuwing.github.io/\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://elvishsieh.github.io/teaching/usingMobirise/index.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
