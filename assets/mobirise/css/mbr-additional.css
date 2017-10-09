@@ -1,5 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
 
 
 
@@ -7,6 +9,9 @@
   color: #ffffff;
   text-align: left;
   font-family: 'Playfair Display', sans-serif;
+}
+#header4-0 P {
+  color: #f1c050;
 }
 #msg-box5-3 .lead P {
   color: #0275d8;
@@ -18,4 +23,8 @@
 }
 #menu-9 .navbar-brand {
   font-family: 'Playfair Display', sans-serif;
+}
+#contacts2-h P {
+  font-size: 20px;
+  font-family: 'Oxygen', sans-serif;
 }
