@@ -5,6 +5,7 @@
 
 
 
+
 #header4-0 H1 {
   color: #ffffff;
   text-align: left;
@@ -27,4 +28,18 @@
 #contacts2-h P {
   font-size: 20px;
   font-family: 'Oxygen', sans-serif;
+}
+#contacts2-h DIV {
+  font-size: 20px;
+  font-family: 'Oxygen', sans-serif;
+}
+#contacts2-h B {
+  color: #f1c050;
+}
+#contacts2-h STRONG {
+  color: #f1c050;
+}
+#social-buttons1-j .mbr-section-title {
+  font-size: 25px;
+  color: #d9534f;
 }
