@@ -135,34 +135,38 @@
             "showTitle": true,
             "showMeta": false,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "imageSize": "70",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1501759163778-2000x1500.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0"
           },
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/photo-5.jpg"
+              "src": "@THEME_PATH@/components/_images/photo-5.jpg",
+              "link": "https://youtu.be/MOlK6nMGTi0",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "src": "https://youtu.be/MOlK6nMGTi0",
               "aspectratio": "16:9",
-              "autoplay": false,
+              "autoplay": "on",
               "loop": false
             },
             "iconFont": {
@@ -171,16 +175,24 @@
               "size": 0
             }
           },
-          "title": "Video Embed",
+          "title": "106/07/22~106/07/23",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "text": "<p><b>新竹趴趴照</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-3"
+          "_anchor": "msg-box5-3",
+          "_styles": {
+            ".lead P": {
+              "color": "#0275d8",
+              "font-size": "60px",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
+            }
+          }
         },
         {
           "_params": {
