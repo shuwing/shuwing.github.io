@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My site",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -12,7 +12,7 @@
       ]
     },
     "versionFirst": "4.2.4",
-    "uniqCompNum": 33,
+    "uniqCompNum": 38,
     "versionPublish": "4.5.2",
     "favicon": "",
     "noImageResize": "",
@@ -387,7 +387,7 @@
     "page1.html": {
       "settings": {
         "title": "Page 1",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -476,7 +476,7 @@
     "page2.html": {
       "settings": {
         "title": "Page 2",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -624,6 +624,160 @@
           ],
           "_name": "map2",
           "_anchor": "map2-w"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Page 3",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017.11.25-171209-11-1708x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017.11.25-171209-11-1708x960-800x449.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017.11.25-171209-152-1708x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017.11.25-171209-152-1708x960-800x449.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017.11.25-171209-130-1478x1108.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017.11.25-171209-130-1478x1108-800x599.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017.11.25-171209-188-1478x1108.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017.11.25-171209-188-1478x1108-800x599.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017.11.25-171209-174-1478x1108.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017.11.25-171209-174-1478x1108-800x599.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017.11.25-171209-201-1476x1110.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017.11.25-171209-201-1476x1110-799x601.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017.11.25-171209-284-1280x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017.11.25-171209-284-1280x720-800x450.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017.11.25-171209-178-1478x1108.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017.11.25-171209-178-1478x1108-800x599.jpg",
+                "active": true,
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-z"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017.10.04-171014-2-1706x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017.10.04-171014-2-1706x960-800x450.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017.10.04-171014-6-1706x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017.10.04-171014-6-1706x960-800x450.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017.10.04-171014-11-1706x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017.10.04-171014-11-1706x960-800x450.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017.10.04-171014-124-1706x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017.10.04-171014-124-1706x960-800x450.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017.10.04-171014-137-1478x1108.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017.10.04-171014-137-1478x1108-800x599.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017.10.04-171014-153-1478x1108.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017.10.04-171014-153-1478x1108-800x599.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20171004-171014-114-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20171004-171014-114-2000x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20171004-171014-9-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20171004-171014-9-2000x1500-800x600.jpg",
+                "active": true,
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-11"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "台中",
+              "placeId": "ChIJ7yJ5-d8XaTQRf0SmfuQ-Uoc",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-10"
         }
       ]
     }
