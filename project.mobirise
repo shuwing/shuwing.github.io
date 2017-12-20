@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My site",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -12,7 +12,7 @@
       ]
     },
     "versionFirst": "4.2.4",
-    "uniqCompNum": 38,
+    "uniqCompNum": 44,
     "versionPublish": "4.5.2",
     "favicon": "",
     "noImageResize": "",
@@ -261,7 +261,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\" target=\"_blank\">東部</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\" target=\"_blank\">南部<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\" target=\"_blank\">中部</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\" target=\"_blank\">東部</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\" target=\"_blank\">南部<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\" target=\"_blank\">中部</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\" target=\"_blank\">北部</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -387,7 +387,7 @@
     "page1.html": {
       "settings": {
         "title": "Page 1",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -476,7 +476,7 @@
     "page2.html": {
       "settings": {
         "title": "Page 2",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -630,7 +630,7 @@
     "page3.html": {
       "settings": {
         "title": "Page 3",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -778,6 +778,160 @@
           ],
           "_name": "map2",
           "_anchor": "map2-10"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "Page 4",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc05668-mh1506833505164-1-1440x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05668-mh1506833505164-1-1440x1080-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20170928-170148-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170928-170148-2000x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20170928-174602-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170928-174602-2000x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-121116-mh1506826215601-1620x1215.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-121116-mh1506826215601-1620x1215-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-141956-mh1506826555193-1620x1215.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-141956-mh1506826555193-1620x1215-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-142650-mh1506826440523-1620x1215.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-142650-mh1506826440523-1620x1215-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-142959-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-142959-2000x1500-800x600.jpg",
+                "active": true,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-150604-mh1506826930550-1-1620x1215.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-150604-mh1506826930550-1-1620x1215-800x600.jpg",
+                "active": false,
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-14"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/20170722day1-171014-15-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170722day1-171014-15-2000x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20170722day1-171014-29-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170722day1-171014-29-2000x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc05591-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05591-1999x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20170722day1-171014-76-2000x1502.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170722day1-171014-76-2000x1502-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20170722day1-171014-104-1477x1108.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170722day1-171014-104-1477x1108-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc05594-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05594-1999x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20170723day2-171014-66-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170723day2-171014-66-2000x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc05596-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05596-1999x1500-800x600.jpg",
+                "active": true,
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-17"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "新竹市",
+              "placeId": "ChIJEUtLGts1aDQRDDvTtbzcCdQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-15"
         }
       ]
     }
