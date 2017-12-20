@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(../../../null);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
@@ -44,7 +45,7 @@
   color: #000;
 }
 #menu-9 .navbar-brand {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'GenYoGothicTW-Medium';
 }
 #contacts2-h P {
   font-size: 20px;
@@ -68,4 +69,13 @@
 }
 #social-buttons1-j .mbr-section-title B {
   font-family: 'Montserrat', sans-serif;
+}
+
+
+#slider-n H2 {
+  font-family: 'GenJyuuGothic-Monospace-Medium';
+  color: #d8d4d1;
+}
+#slider-n .btn {
+  font-family: 'GenJyuuGothicX-P-Medium';
 }
