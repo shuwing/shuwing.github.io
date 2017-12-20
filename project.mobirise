@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My site",
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -12,7 +12,7 @@
       ]
     },
     "versionFirst": "4.2.4",
-    "uniqCompNum": 28,
+    "uniqCompNum": 33,
     "versionPublish": "4.5.2",
     "favicon": "",
     "noImageResize": "",
@@ -387,7 +387,7 @@
     "page1.html": {
       "settings": {
         "title": "Page 1",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -470,6 +470,160 @@
           ],
           "_name": "map2",
           "_anchor": "map2-r"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Page 2",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc05446-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05446-1999x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc05465-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05465-1999x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc05506-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05506-1999x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc05561-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05561-1999x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017.09.02-171014-10-1478x1108.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017.09.02-171014-10-1478x1108-800x599.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017.09.02-171014-157-1478x1108.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017.09.02-171014-157-1478x1108-800x599.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20170902-171014-26-1478x1108.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170902-171014-26-1478x1108-800x599.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc04058-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc04058-1999x1500-800x600.jpg",
+                "active": true,
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-u"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc04059-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc04059-1999x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc04111-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc04111-1999x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc04163-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc04163-1999x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc04183-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc04183-1999x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc04097-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc04097-1999x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc04148-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc04148-1999x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc04199-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc04199-1999x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc04286-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc04286-1999x1500-800x600.jpg",
+                "active": true,
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-v"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "台南, 高雄",
+              "placeId": "ChIJK_I1UZN2bjQRnLZaGDT61Rw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-w"
         }
       ]
     }
