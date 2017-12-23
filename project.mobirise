@@ -91,7 +91,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc05668-mh1506833505164-1440x1080.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc05668-mh1506833505164-1440x1080-800x600.jpg",
-                "active": false,
+                "active": true,
                 "alt": ""
               },
               {
@@ -133,7 +133,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/1498982424044-1478x1108.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1498982424044-1478x1108-800x599.jpg",
-                "active": true,
+                "active": false,
                 "alt": ""
               }
             ]
@@ -261,7 +261,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\" target=\"_blank\">東部</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\" target=\"_blank\">南部<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\" target=\"_blank\">中部</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\" target=\"_blank\">北部</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"east.html\">東部</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"south.html\">南部<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"midst.html\">中部</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"north.html\">北部</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -384,10 +384,10 @@
         }
       ]
     },
-    "page1.html": {
+    "north.html": {
       "settings": {
-        "title": "Page 1",
-        "order": 4
+        "title": "North",
+        "order": 1
       },
       "components": [
         {
@@ -398,50 +398,50 @@
             "bgColor": "#efefef",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc05351-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc05351-1999x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc05668-mh1506833505164-1-1440x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05668-mh1506833505164-1-1440x1080-800x600.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc05373-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc05373-1999x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170928-170148-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170928-170148-2000x1500-800x600.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc05394-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc05394-1999x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170928-174602-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170928-174602-2000x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-121116-mh1506826215601-1620x1215.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-121116-mh1506826215601-1620x1215-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-141956-mh1506826555193-1620x1215.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-141956-mh1506826555193-1620x1215-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-142650-mh1506826440523-1620x1215.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-142650-mh1506826440523-1620x1215-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-142959-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-142959-2000x1500-800x600.jpg",
                 "active": true,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc05410-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc05410-1999x1500-800x600.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/dsc05423-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc05423-1999x1500-800x600.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/dsc05399-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc05399-1999x1500-800x600.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/dsc05425-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc05425-1999x1500-800x600.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/dsc05430-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc05430-1999x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-150604-mh1506826930550-1-1620x1215.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-150604-mh1506826930550-1-1620x1215-800x600.jpg",
                 "active": false,
                 "alt": ""
               }
@@ -453,96 +453,7 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-o"
-        },
-        {
-          "_params": {
-            "googleMap": {
-              "address": "台東",
-              "placeId": "ChIJAQQqpdK4bzQR__KzdeRxaM8",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map2",
-          "_anchor": "map2-r"
-        }
-      ]
-    },
-    "page2.html": {
-      "settings": {
-        "title": "Page 2",
-        "order": 3
-      },
-      "components": [
-        {
-          "_params": {
-            "showBullets": true,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgColor": "#efefef",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/dsc05446-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc05446-1999x1500-800x600.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/dsc05465-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc05465-1999x1500-800x600.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/dsc05506-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc05506-1999x1500-800x600.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/dsc05561-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc05561-1999x1500-800x600.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/2017.09.02-171014-10-1478x1108.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2017.09.02-171014-10-1478x1108-800x599.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/2017.09.02-171014-157-1478x1108.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2017.09.02-171014-157-1478x1108-800x599.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20170902-171014-26-1478x1108.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20170902-171014-26-1478x1108-800x599.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/dsc04058-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc04058-1999x1500-800x600.jpg",
-                "active": true,
-                "alt": ""
-              }
-            ]
-          },
-          "articleLayout": false,
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-u"
+          "_anchor": "gallery1-14"
         },
         {
           "_params": {
@@ -552,50 +463,50 @@
             "bgColor": "#efefef",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc04059-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc04059-1999x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170722day1-171014-15-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170722day1-171014-15-2000x1500-800x600.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc04111-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc04111-1999x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170722day1-171014-29-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170722day1-171014-29-2000x1500-800x600.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc04163-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc04163-1999x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc05591-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05591-1999x1500-800x600.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc04183-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc04183-1999x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170722day1-171014-76-2000x1502.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170722day1-171014-76-2000x1502-800x600.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc04097-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc04097-1999x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170722day1-171014-104-1477x1108.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170722day1-171014-104-1477x1108-800x600.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc04148-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc04148-1999x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc05594-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05594-1999x1500-800x600.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc04199-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc04199-1999x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170723day2-171014-66-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170723day2-171014-66-2000x1500-800x600.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc04286-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc04286-1999x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc05596-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05596-1999x1500-800x600.jpg",
                 "active": true,
                 "alt": ""
               }
@@ -607,13 +518,13 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-v"
+          "_anchor": "gallery1-17"
         },
         {
           "_params": {
             "googleMap": {
-              "address": "台南, 高雄",
-              "placeId": "ChIJK_I1UZN2bjQRnLZaGDT61Rw",
+              "address": "桃園",
+              "placeId": "ChIJP4bazg49aDQRakg6WFJP5FQ",
               "state": "ok",
               "stateDetails": ""
             }
@@ -623,13 +534,13 @@
             "Theme"
           ],
           "_name": "map2",
-          "_anchor": "map2-w"
+          "_anchor": "map2-15"
         }
       ]
     },
-    "page3.html": {
+    "midst.html": {
       "settings": {
-        "title": "Page 3",
+        "title": "Midst",
         "order": 2
       },
       "components": [
@@ -781,10 +692,10 @@
         }
       ]
     },
-    "page4.html": {
+    "south.html": {
       "settings": {
-        "title": "Page 4",
-        "order": 1
+        "title": "South",
+        "order": 3
       },
       "components": [
         {
@@ -795,51 +706,51 @@
             "bgColor": "#efefef",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc05668-mh1506833505164-1-1440x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc05668-mh1506833505164-1-1440x1080-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc05446-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05446-1999x1500-800x600.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-20170928-170148-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170928-170148-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc05465-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05465-1999x1500-800x600.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-20170928-174602-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170928-174602-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc05506-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05506-1999x1500-800x600.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-20170929-121116-mh1506826215601-1620x1215.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-121116-mh1506826215601-1620x1215-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc05561-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05561-1999x1500-800x600.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-20170929-141956-mh1506826555193-1620x1215.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-141956-mh1506826555193-1620x1215-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2017.09.02-171014-10-1478x1108.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017.09.02-171014-10-1478x1108-800x599.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-20170929-142650-mh1506826440523-1620x1215.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-142650-mh1506826440523-1620x1215-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2017.09.02-171014-157-1478x1108.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017.09.02-171014-157-1478x1108-800x599.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-20170929-142959-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-142959-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170902-171014-26-1478x1108.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170902-171014-26-1478x1108-800x599.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc04058-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc04058-1999x1500-800x600.jpg",
                 "active": true,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-20170929-150604-mh1506826930550-1-1620x1215.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-150604-mh1506826930550-1-1620x1215-800x600.jpg",
-                "active": false,
                 "alt": ""
               }
             ]
@@ -850,7 +761,7 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-14"
+          "_anchor": "gallery1-u"
         },
         {
           "_params": {
@@ -860,50 +771,50 @@
             "bgColor": "#efefef",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/20170722day1-171014-15-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20170722day1-171014-15-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc04059-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc04059-1999x1500-800x600.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/20170722day1-171014-29-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20170722day1-171014-29-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc04111-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc04111-1999x1500-800x600.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc05591-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc05591-1999x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc04163-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc04163-1999x1500-800x600.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/20170722day1-171014-76-2000x1502.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20170722day1-171014-76-2000x1502-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc04183-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc04183-1999x1500-800x600.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/20170722day1-171014-104-1477x1108.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20170722day1-171014-104-1477x1108-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc04097-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc04097-1999x1500-800x600.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc05594-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc05594-1999x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc04148-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc04148-1999x1500-800x600.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/20170723day2-171014-66-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20170723day2-171014-66-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc04199-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc04199-1999x1500-800x600.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc05596-1999x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc05596-1999x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc04286-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc04286-1999x1500-800x600.jpg",
                 "active": true,
                 "alt": ""
               }
@@ -915,13 +826,13 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-17"
+          "_anchor": "gallery1-v"
         },
         {
           "_params": {
             "googleMap": {
-              "address": "桃園",
-              "placeId": "ChIJP4bazg49aDQRakg6WFJP5FQ",
+              "address": "台南, 高雄",
+              "placeId": "ChIJK_I1UZN2bjQRnLZaGDT61Rw",
               "state": "ok",
               "stateDetails": ""
             }
@@ -931,7 +842,96 @@
             "Theme"
           ],
           "_name": "map2",
-          "_anchor": "map2-15"
+          "_anchor": "map2-w"
+        }
+      ]
+    },
+    "east.html": {
+      "settings": {
+        "title": "East",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc05351-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05351-1999x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc05373-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05373-1999x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc05394-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05394-1999x1500-800x600.jpg",
+                "active": true,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc05410-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05410-1999x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc05423-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05423-1999x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc05399-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05399-1999x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc05425-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05425-1999x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc05430-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05430-1999x1500-800x600.jpg",
+                "active": false,
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-o"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "台東",
+              "placeId": "ChIJAQQqpdK4bzQR__KzdeRxaM8",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-r"
         }
       ]
     }
